@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on one of the largest single man full stack project.
+🔭 I'm currently working on one of the largest full stack project.
 
 
 # 💻 Tech Stack:
